@@ -7,8 +7,7 @@
   "categories":[
     { "id": 1, "category_name": "Movies" },
     { "id": 2, "category_name": "Electronics" },
-    { "id": 3, "category_name": "Mobile" },
-    { "id": 4, "category_name": "Recharge" }
+    { "id": 3, "category_name": "Mobile" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
