@@ -5,15 +5,15 @@
     { "id": 3, "title": "Post 3" }
   ],
   "categories":[
-    { "id": 1, "category_name":"Movies" },
-    { "id": 2, "category_name":"Electronics" },
-    { "id": 3, "category_name":"Mobile" },
-    { "id": 4, "category_name":"Recharge" },
-    { "id": 5, "category_name":"Clothing" },
-    { "id": 6, "category_name":"Beauty" },
-    { "id": 7, "category_name":"Bags" },
-    { "id": 8, "category_name":"Watch" },
-    { "id": 9, "category_name":"Computers & Laptops" }
+    { "id": 1, "category_name": "Movies" },
+    { "id": 2, "category_name": "Electronics" },
+    { "id": 3, "category_name": "Mobile" },
+    { "id": 4, "category_name": "Recharge" },
+    { "id": 5, "category_name": "Clothing" },
+    { "id": 6, "category_name": "Beauty" },
+    { "id": 7, "category_name": "Bags" },
+    { "id": 8, "category_name": "Watch" },
+    { "id": 9, "category_name": "Computers & Laptops" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
