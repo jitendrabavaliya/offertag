@@ -13,7 +13,7 @@
     { "id": 6, "category_name":"Beauty" },
     { "id": 7, "category_name":"Bags" },
     { "id": 8, "category_name":"Watch" },
-    { "id": 9, "category_name":"Computers & Laptops" },
+    { "id": 9, "category_name":"Computers & Laptops" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
