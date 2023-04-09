@@ -1,21 +1,58 @@
 {
-    "categories":[
-      {"id":1,"category_name":"Watch","order_no":1},
-      {"id":2,"category_name":"Mobile","order_no":2},
-      {"id":3,"category_name":"Beauty","order_no":3},
-      {"id":4,"category_name":"Electronics","order_no":4},
-      {"id":5,"category_name":"Sports","order_no":5}
+    "categories": [
+        {
+            "id": 1,
+            "category_name": "Watch",
+            "order_no": 1
+        },
+        {
+            "id": 2,
+            "category_name": "Mobile",
+            "order_no": 2
+        },
+        {
+            "id": 3,
+            "category_name": "Beauty",
+            "order_no": 3
+        },
+        {
+            "id": 4,
+            "category_name": "Electronics",
+            "order_no": 4
+        },
+        {
+            "id": 5,
+            "category_name": "Sports",
+            "order_no": 5
+        }
     ],
     "posts": [
-      { "id": 1, "title": "Post 1" },
-      { "id": 2, "title": "Post 2" },
-      { "id": 3, "title": "Post 3" }
+        {
+            "id": 1,
+            "title": "Post 1"
+        },
+        {
+            "id": 2,
+            "title": "Post 2"
+        },
+        {
+            "id": 3,
+            "title": "Post 3"
+        }
     ],
     "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 },
-      { "id": 2, "body": "some comment", "postId": 1 }
+        {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
+        },
+        {
+            "id": 2,
+            "body": "some comment",
+            "postId": 1
+        }
     ],
     "profile": {
-      "name": "typicode"
+        "name": "typicode"
     }
-  }
+}
