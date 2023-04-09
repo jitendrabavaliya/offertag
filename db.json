@@ -12,6 +12,12 @@
     { "id": 5, "category_name": "Clothing" },
     { "id": 6, "category_name": "Recharge" }
   ],
+  "shops":[
+    {"id":1, "name": "Amazon"},
+    {"id":2, "name": "Flipkart"},
+    {"id":3, "name": "Myntra"},
+    {"id":4, "name": "Paytm"}
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
