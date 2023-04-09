@@ -8,7 +8,9 @@
     { "id": 1, "category_name": "Movies" },
     { "id": 2, "category_name": "Electronics" },
     { "id": 3, "category_name": "Mobile" },
-    { "id": 4, "category_name": "Beauty" }
+    { "id": 4, "category_name": "Beauty" },
+    { "id": 5, "category_name": "Clothing" },
+    { "id": 6, "category_name": "Recharge" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
