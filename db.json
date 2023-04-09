@@ -10,7 +10,10 @@
     { "id": 3, "category_name": "Mobile" },
     { "id": 4, "category_name": "Beauty" },
     { "id": 5, "category_name": "Clothing" },
-    { "id": 6, "category_name": "Recharge" }
+    { "id": 6, "category_name": "Recharge" },
+    { "id": 7, "category_name": "Bags" },
+    { "id": 8, "category_name": "Watch" },
+    { "id": 9, "category_name": "Computer & Laptops" }
   ],
   "shops":[
     {"id":1, "name": "Amazon"},
