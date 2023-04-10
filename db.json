@@ -19,7 +19,11 @@
     {"id":1, "name": "Amazon"},
     {"id":2, "name": "Flipkart"},
     {"id":3, "name": "Myntra"},
-    {"id":4, "name": "Paytm"}
+    {"id":4, "name": "Paytm"},
+    {"id":5, "name": "Freecharge"},
+    {"id":6, "name": "Bookmyshow"},
+    {"id":7, "name": "Makemytrip"},
+    {"id":8, "name": "Ixigo"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
